@@ -1,10 +1,10 @@
 
-### Hi there I'm [Akhil!](https://akhilgkrishnan.me)👋
-I'm Akhil G Krishnan, a 22-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.<br>
+### Hi there I'm [Debra!]👋
+I'm Deborah Menezes, a technical enthusiast who does machine learning, javascript sometimes too. Passionate to contribute to projects and make cool products.<br>
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/deborah-zenobia-rachael-menezes-40a57395/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Debra1761) 
 <!--
-**AkhilGKrishnan/AkhilGKrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Debra1761/Debra1761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
-- 😄 Pronouns: He/His/Him
+- 🌱 I’m currently HuggingFace and various data analysis techniques
+- 👯 
+- 😄 Pronouns: She/Her/His
 
 
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=AkhilGKrishnan&show_icons=true&theme=dark)
 
-⭐️ From [AkhilGKrishnan](https://github.com/AkhilGKrishnan)
+⭐️ From [Debra1761](https://github.com/Debra1761)
