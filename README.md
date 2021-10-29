@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Personal NLP based projects and building ML apps on AWS platform**
 
-- 🌱 I’m currently learning **NLP, Black box optimization, AI Chatbots **
+- 🌱 I’m currently learning **NLP, Black box optimization, AI Chatbots**
 
 - 👯 I’m looking to collaborate on **ML projects**
 
