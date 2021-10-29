@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debra <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate  Data Scientist (and a beginner machine learning engineer) python from India</h3>
+<h3 align="center">A passionate  Data Scientist (and a beginner machine learning engineer) python from planet earth</h3>
 
 - 🔭 I’m currently working on my **Personal NLP based projects and building ML apps on AWS platform**
 
