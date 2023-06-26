@@ -1,6 +1,8 @@
-<h1 align="center"> 𝔥𝔦 👋, ℐ𝓂 𝑫𝑒𝑏𝑏𝒊𝑒 ❄︎
- Welcome to my safe place! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">I am a seasoned software engineer with a specialized master's degree in Big Data and Machine Learning. Along with this, I am a Data Analysis enthusiast by professional with two years of enriching experience in data crunching, transforming, and cleaning. My multifaceted background enables me to view challenges from various perspectives, ensuring an innovative approach to problem-solving in the dynamic field of data. So let's connect, code, game, and make this planet Earth a bit more data-driven! 👩🏽‍💻 </h3>
+<h3 align="center"> 𝔥𝔦 👋, ℐ𝓂 𝑫𝑒𝑏𝑏𝒊𝑒 ❄︎
+ Welcome to my safe place! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
+<h4 align="center">I am a seasoned software engineer with a specialized master's degree in Big Data and Machine Learning. Along with this, I am a Data Analysis enthusiast by professional with two years of enriching experience in data crunching, transforming, and cleaning. My multifaceted background enables me to view challenges from various perspectives, ensuring an innovative approach to problem-solving in the dynamic field of data. </h4>
+
+<h6 align="center"> So let's connect, code, game, and make this planet Earth a bit more data-driven! 👩🏽‍💻 </h6>
 
 - 🔭 I’m currently building my skills as a prompt Engineer to explore strategic ways to evolve & allowing me to explore new arenas and continuously learn.
 
