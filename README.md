@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Debra <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate  Data Analyst &  a beginner machine learning engineer python from planet earth</h3>
+<h1 align="center">Hi 👋, Debbie here! ![image](https://github.com/Debra1761/Debra1761/assets/49639284/43839155-a499-44bc-93d6-aef7393739d2)
+ Welcome to my safeplace! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">I'm a Data Analysis enthusiast with two years of crunching and cleaning data under my belt. I've recently dived into the exciting world of Machine Learning with Python and I'm totally hooked. But hey, I'm not just a code geek - I've got a lifetime of experience as a fellow human, just like you. So let's connect, code, and make this planet Earth a bit more data-driven! :female-technologist: </h3>
 
 - 🔭 I’m currently building my skills as a prompt Engineer to explore strategic ways to evolve
 
-- 🌱 I’m currently skilled in data extraction and building dashboards to showcase business-centric KPIs to stakeholders from different domains
+- 🌱 I’m currently skilled in data extraction, data transformation and building dashboards to showcase business-centric KPIs to stakeholders from different domains
 
-- I love bulding side projects that are outside my areas out of expertise, check out my repo!
+- ![image](https://github.com/Debra1761/Debra1761/assets/49639284/73110ab5-a682-446f-9f9e-5c2d544c57b6)
+I love bulding side projects that are outside my areas out of expertise, check out my repo!
 
 - 👯 I’m looking to collaborate on **Open AI projects**
 
 - 📫 How to reach me: **dmenezes16@gmail.com**
 
 - ⚡ What I like to do: **I like to bike(mountain biking), exploring the wonders of the universe, diving, and meditation to attain a flow state ...and gaming of course**
-Wanna challenge me, find me aka brutalbunny on League of Legends or beat me on dirt rally
+Wanna challenge me, find me aka brutalbunny on League of Legends or beat my personal best on dirt rally.
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
