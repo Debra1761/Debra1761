@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Debbie here! ![image](https://github.com/Debra1761/Debra1761/assets/49639284/43839155-a499-44bc-93d6-aef7393739d2)
+<h1 align="center">Hi 👋, Debbie here!
  Welcome to my safeplace! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">I'm a Data Analysis enthusiast with two years of crunching and cleaning data under my belt. I've recently dived into the exciting world of Machine Learning with Python and I'm totally hooked. But hey, I'm not just a code geek - I've got a lifetime of experience as a fellow human, just like you. So let's connect, code, and make this planet Earth a bit more data-driven! :female-technologist: </h3>
 
