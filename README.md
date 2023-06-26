@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Debra <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate  Data Scientist (and a beginner machine learning engineer) python from planet earth</h3>
+<h3 align="center">A passionate  Data Analyst &  a beginner machine learning engineer python from planet earth</h3>
 
-- 🔭 I’m currently working on my **Personal NLP based projects and building ML apps on AWS platform**
+- 🔭 I’m currently building my skills as a prompt Engineer to explore strategic ways to evolve
 
-- 🌱 I’m currently learning **NLP, Black box optimization, AI Chatbots**
+- 🌱 I’m currently skilled in data extraction and building dashboards to showcase business-centric KPIs to stakeholders from different domains
 
-- 👯 I’m looking to collaborate on **ML projects**
+- I love bulding side projects that are outside my areas out of expertise, check out my repo!
+
+- 👯 I’m looking to collaborate on **Open AI projects**
 
 - 📫 How to reach me: **dmenezes16@gmail.com**
 
-- ⚡ What I like to do: **I like to bike(moutain biking), watching killer documentaries and swimming...and coding of course**
+- ⚡ What I like to do: **I like to bike(mountain biking), exploring the wonders of the universe, diving, and meditation to attain a flow state ...and gaming of course**
+Wanna challenge me, find me aka brutalbunny on League of Legends or beat me on dirt rally
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
