@@ -1,22 +1,21 @@
-<h1 align="center">Hi 👋, Debbie here!
+<h1 align="center"> 𝔥𝔦 👋, ℐ𝓂 𝑫𝑒𝑏𝑏𝒊𝑒 ❄︎
  Welcome to my safeplace! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">I'm a Data Analysis enthusiast with two years of crunching and cleaning data under my belt. I've recently dived into the exciting world of Machine Learning with Python and I'm totally hooked. But hey, I'm not just a code geek - I've got a lifetime of experience as a fellow human, just like you. So let's connect, code, and make this planet Earth a bit more data-driven! :female-technologist: </h3>
+<h3 align="center">I'm a Data Analysis enthusiast with two years of crunching and cleaning data under my belt. I've recently dived into the exciting world of Prompt Egnineering and I'm totally hooked. But hey, I'm not just a code geek - I've got a lifetime of experience as a fellow human I think, just like you. So let's connect, code, game, and make this planet Earth a bit more data-driven! 👩🏽‍💻 </h3>
 
 - 🔭 I’m currently building my skills as a prompt Engineer to explore strategic ways to evolve
 
 - 🌱 I’m currently skilled in data extraction, data transformation and building dashboards to showcase business-centric KPIs to stakeholders from different domains
 
-- ![image](https://github.com/Debra1761/Debra1761/assets/49639284/73110ab5-a682-446f-9f9e-5c2d544c57b6)
-I love bulding side projects that are outside my areas out of expertise, check out my repo!
+- 🏗 I love bulding side projects that are outside my areas out of expertise for instance bulding websites, check out my repo!
 
 - 👯 I’m looking to collaborate on **Open AI projects**
 
 - 📫 How to reach me: **dmenezes16@gmail.com**
 
 - ⚡ What I like to do: **I like to bike(mountain biking), exploring the wonders of the universe, diving, and meditation to attain a flow state ...and gaming of course**
-Wanna challenge me, find me aka brutalbunny on League of Legends or beat my personal best on dirt rally.
+Wanna challenge me, find me aka brutalbunny on League of Legends 🃏 or beat my personal best on dirt rally 🏎.
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me anytime ☻ :</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-zenobia-rachael-menezes-40a57395/)
