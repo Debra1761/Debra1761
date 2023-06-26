@@ -1,19 +1,19 @@
 <h1 align="center"> 𝔥𝔦 👋, ℐ𝓂 𝑫𝑒𝑏𝑏𝒊𝑒 ❄︎
- Welcome to my safeplace! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">I'm a Data Analysis enthusiast with two years of crunching and cleaning data under my belt. I've recently dived into the exciting world of Prompt Egnineering and I'm totally hooked. But hey, I'm not just a code geek - I've got a lifetime of experience as a fellow human I think, just like you. So let's connect, code, game, and make this planet Earth a bit more data-driven! 👩🏽‍💻 </h3>
+ Welcome to my safe place! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">I am a software engineer and hold a master's degree in Machine Learning.  Along with this, I am a Data Analysis enthusiast with two years of enriching experience in data crunching and cleaning. 👩🏽‍💻 </h3>
 
 - 🔭 I’m currently building my skills as a prompt Engineer to explore strategic ways to evolve
 
-- 🌱 I’m currently skilled in data extraction, data transformation and building dashboards to showcase business-centric KPIs to stakeholders from different domains
+- 🌱 I’m currently skilled in data extraction, data transformation, and building dashboards to showcase business-centric KPIs to stakeholders from different domains
 
-- 🏗 I love bulding side projects that are outside my areas out of expertise for instance bulding websites, check out my repo!
+- 🏗 I love building side projects that are outside my areas of expertise, for instance, building websites, check out my repo!
 
 - 👯 I’m looking to collaborate on **Open AI projects**
 
 - 📫 How to reach me: **dmenezes16@gmail.com**
 
-- ⚡ What I like to do: **I like to bike(mountain biking), exploring the wonders of the universe, diving, and meditation to attain a flow state ...and gaming of course**
-Wanna challenge me, find me aka brutalbunny on League of Legends 🃏 or beat my personal best on dirt rally 🏎.
+- ⚡ What I like to do: **I like to bike(mountain biking), explore the wonders of the universe, diving, and meditation to attain a flow state ...and gaming of course**
+Wanna challenge me, find me aka **brutalbunny** on League of Legends 🃏 or beat my personal best on dirt rally 🏎.
 
 <h3 align="center">Connect with me anytime ☻ :</h3>
 <div align="center">
