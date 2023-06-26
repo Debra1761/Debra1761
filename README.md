@@ -1,12 +1,12 @@
 <h1 align="center"> 𝔥𝔦 👋, ℐ𝓂 𝑫𝑒𝑏𝑏𝒊𝑒 ❄︎
  Welcome to my safe place! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">I am a software engineer and hold a master's degree in Machine Learning.  Along with this, I am a Data Analysis enthusiast with two years of enriching experience in data crunching and cleaning. 👩🏽‍💻 </h3>
+<h3 align="center">I am a seasoned software engineer with a specialized master's degree in Big Data and Machine Learning. Along with this, I am a Data Analysis enthusiast by professional with two years of enriching experience in data crunching, transforming, and cleaning. My multifaceted background enables me to view challenges from various perspectives, ensuring an innovative approach to problem-solving in the dynamic field of data. So let's connect, code, game, and make this planet Earth a bit more data-driven! 👩🏽‍💻 </h3>
 
-- 🔭 I’m currently building my skills as a prompt Engineer to explore strategic ways to evolve
+- 🔭 I’m currently building my skills as a prompt Engineer to explore strategic ways to evolve & allowing me to explore new arenas and continuously learn.
 
 - 🌱 I’m currently skilled in data extraction, data transformation, and building dashboards to showcase business-centric KPIs to stakeholders from different domains
 
-- 🏗 I love building side projects that are outside my areas of expertise, for instance, building websites, check out my repo!
+- 🏗 I love building side projects that are outside my areas of expertise If you're curious to see some of my work, check out my repo!
 
 - 👯 I’m looking to collaborate on **Open AI projects**
 
