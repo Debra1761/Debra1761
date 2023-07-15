@@ -10,7 +10,7 @@
 
 - 🏗 I love building side projects that are outside my areas of expertise If you're curious to see some of my work, check out my repo!
 
-- 👯 I’m looking to collaborate on **Open AI projects**
+- 👯 I’m looking to collaborate on **OpenAI projects**
 
 - 📫 How to reach me: **dmenezes16@gmail.com**
 
